@@ -38,7 +38,9 @@ class App extends StatelessWidget {
                       Text(
                         'welcome back',
                         style: TextStyle(
+                          
                           color: Colors.white.withOpacity(0.7),
+
                           fontSize: 18,
                         ),
                       ),
